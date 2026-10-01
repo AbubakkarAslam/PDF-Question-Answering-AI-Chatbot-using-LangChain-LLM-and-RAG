@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai 'for using the genai api'
+langchain-text-splitters 'for split the text in chunks from the file when load the file'
+langchain-community 'used for load the documents from the folder'
+dotenv 'used to load the .env file'
+pypdf 
+streamlit
+pipreqs 
